@@ -11,15 +11,32 @@
   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+<pre align="center">
+ ________  ___  _________  ________  ________  ___      ___ _______   ________      
+|\   __  \|\  \|\___   ___\\   __  \|\   __  \|\  \    /  /|\  ___ \ |\   ___  \    
+\ \  \|\  \ \  \|___ \  \_\ \  \|\ /\ \  \|\  \ \  \  /  / | \   __/|\ \  \\ \  \   
+ \ \   _  _\ \  \   \ \  \ \ \   __  \ \   __  \ \  \/  / / \ \  \_|/_\ \  \\ \  \  
+  \ \  \\  \\ \  \   \ \  \ \ \  \|\  \ \  \ \  \ \    / /   \ \  \_|\ \ \  \\ \  \ 
+   \ \__\\ _\\ \__\   \ \__\ \ \_______\ \__\ \__\ \__/ /     \ \_______\ \__\\ \__\
+    \|__|\|__|\|__|    \|__|  \|_______|\|__|\|__|\|__|/       \|_______|\|__| \|__|
+ </pre>
+
  -->
+
+
+
+
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt;
-                <b><a target="_blank" href="https://ritbaven.github.io/" >Ricardo Ibaven</a></b>
+                <b><a target="_blank" href="https://ritbaven.github.io/">Ricardo Ibaven</a></b>
         </samp>
 </h3>
 
+
+![ritt](https://github.com/Ritbaven/Ritbaven/assets/127344526/0f6a8473-182d-4adb-bb74-f247fcf7e335)
+ 
 <p align="center"> 
   <samp>
     <br>
