@@ -34,8 +34,7 @@
         </samp>
 </h3>
 
-
-![ritt](https://github.com/Ritbaven/Ritbaven/assets/127344526/0f6a8473-182d-4adb-bb74-f247fcf7e335)
+![ritbavne](https://github.com/Ritbaven/Ritbaven/assets/127344526/146c36c3-6d99-480f-a094-ab29c39c2b07)
  
 <p align="center"> 
   <samp>
