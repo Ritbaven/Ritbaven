@@ -30,7 +30,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt;
-                <b><a target="_blank" href="https://ritbaven.github.io/">Ricardo Ibaven</a></b>
+                <b><a target="_blank" href="https://ribaven.com">Ricardo Ibaven</a></b>
         </samp>
 </h3>
 
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
- <a href="https://ritbaven.github.io/" target="_blank"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Website-00C0FA?style=for-the-badge&logo=koding&logoColor=white"/></a>
+ <a href="https://ribaven.com" target="_blank"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Website-00C0FA?style=for-the-badge&logo=koding&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/ibaven/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-A56E37?style=for-the-badge&logo=koding&logoColor=white"/></a>
  <a href="https://x.com/Ritbaven1" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-FA7D00?style=for-the-badge&logo=koding&logoColor=white"/></a>
 <!--  <a href="https://instagram.com/_alsiam" target="_blank">
