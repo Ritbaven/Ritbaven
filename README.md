@@ -59,9 +59,10 @@
 <br />
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ritbaven&theme=transparent&hide_border=true&mode=weekly&fire=FA7D00&dates=E0AB6E&sideNums=00C0FA&ring=00C0FA&currStreakNum=EBEBEB&stroke=EBEBEB&currStreakLabel=EBEBEB&sideLabels=2F9ABA" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=Ritbaven&theme=transparent&hide_border=true&mode=weekly&fire=FA7D00&dates=E0AB6E&sideNums=00C0FA&ring=00C0FA&currStreakNum=EBEBEB&stroke=EBEBEB&currStreakLabel=EBEBEB&sideLabels=2F9ABA" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Ritbaven/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritbaven&theme=transparent&hide_border=true&title_color=00C0FA&text_color=E0AB6E" alt="GitHub Streak" /></a>
+  
 </p>
-
 
 ## Used To Code
 
